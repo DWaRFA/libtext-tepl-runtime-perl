@@ -1,0 +1,21 @@
+Text-Tepl-Runtime version 0.002
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+DEPENDENCIES
+
+Text::Tepl
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2010, MIZUTANI Tociyuki
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
